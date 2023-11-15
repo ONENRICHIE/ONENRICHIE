@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ONENRICHIE
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on working with my colleagues on the project.
+- 👀 I’m interested in connecting and learning from other great developers
+- 🌱 I’m currently learning frontend engineering
+- 💞️ I’m looking to collaborate and learn on any frontend development project
 - 📫 How to reach me onenikpi94@gmail.com
 
 <!---
